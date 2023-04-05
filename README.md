@@ -1,4 +1,4 @@
-# 7DaysOfCode Alura
+# TargetSistemas
 
 > Processo seletivo de teste para a empresa TargetSistemas
 
